@@ -11,7 +11,7 @@ public class DiceGame{
         System.out.print("Enter name of 2nd Player - ");
         String player_2nd = sc.nextLine();
 
-        Dice dice = new Dice();
+       
            Dice p1_Dice=new Dice();
            Dice p2_Dice =new Dice();
 
